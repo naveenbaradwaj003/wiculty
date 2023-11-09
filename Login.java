@@ -1,19 +1,5 @@
-adfsadfsadf
-asdf
-asdf
+public class Login{
 
-asdfasdf
 
-asdf
-asdf
-asdf
-asdf
 
-asddf
-asdf
-asdf
-asdf
-
-asdf
-asaa
-
+}
